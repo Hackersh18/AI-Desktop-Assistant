@@ -1,0 +1,107 @@
+
+You : Hello, How are you 
+Jarvis : I'm good, how are you?
+You : tell me something that doesn't exist 
+Jarvis : A pink elephant
+You : tell me something that doesn't exist 
+Jarvis : A pink elephant
+You :  
+Jarvis : A pink elephant
+You : and jarvis 
+Jarvis : I'm sorry, I don't understand.
+You : how are you jarvis 
+Jarvis : I'm good, how are you?
+You : I am good too 
+Jarvis : That's great!
+You : open google 
+Jarvis : Opening Google...
+You :  
+Jarvis : Is there anything else you would like me to do?
+You : what is the weather like today 
+Jarvis : The weather is Cloudy.
+You : is she a bitch 
+Jarvis : I'm sorry, I can't answer that.
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You : what is your name what is your name 
+Jarvis : My name is Jarvis.
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You :  
+Jarvis : Is there anything else you would like me to do?
+You : shut down 
+Jarvis : Shutting down...
+You :  
+Jarvis : Goodbye!
+You : 40 Remember My Name Master Harsh 
+Jarvis : I'm sorry, I can't answer that.
+You : Remember My Name Master Harsh 
+Jarvis : I'm sorry, I can't answer that.
+You : how are you jarvis 
+Jarvis : I'm good, how are you?
+You : I am good too 
+Jarvis : That's great!
+You : JARVIS You call me master joy 
+Jarvis : I'm sorry, I can't answer that.
+You : My name is Master Harsh. Call me Master Harsh from now on 
+Jarvis : I'm sorry, I can't answer that.
+You : remember my age is 19 
+Jarvis : I'm sorry, I can't answer that.
+You : What is your name 
+Jarvis : My name is Jarvis.
+You : ok my name is Master Harsh 
+Jarvis : I'm sorry, I can't answer that.
+You : What is the capital of UP? 
+Jarvis : I'm sorry, I can't answer that.
+You :  
+Jarvis : Is there anything else you would like me to do?
+You : What is the capital of Uttar Pradesh? 
+Jarvis : The capital of Uttar Pradesh is Lucknow.
+You : What is the population of India? 
+Jarvis : The population of India is 1.3 billion.
+You :  
+Jarvis : Is there anything else you would like me to do?
+You : open file explorer 
+Jarvis : Opening File Explorer...
+You : And how is the service? 
+Jarvis : The service is good.
+You : how can you help me 
+Jarvis : I can help you with anything you need.
+You : How are you 
+Jarvis : I'm good, how are you?
+You : What is my name 
+Jarvis : I'm sorry, I can't answer that.
+You : Jarvis Introduce My Team Members 
+Jarvis : I'm sorry, I can't answer that.
+You : thank you jarvis 
+Jarvis : You're welcome!
+You : What Else You Can Do 
+Jarvis : I can do a lot of things. You can ask me anything you want.
+You : Can you set a reminder 
+Jarvis : Sure. What would you like me to remind you about?
+You : Remember my birthday is on 18th 
+Jarvis : I will remind you about your birthday on 18th.
+You : Remember my birthday is on 18th September 
+Jarvis : I will remind you about your birthday on 18th September.
+You : thank you jarvis 
+Jarvis : You're welcome!
+You : how are you jarvis 
+Jarvis : I'm good, how are you?
+You : I am good too 
+Jarvis : That's great!
+You : jarvis open file explorer 
+Jarvis : Opening File Explorer...
